@@ -4,7 +4,7 @@
 
 🧑‍🦯🌱 [Dành Cho Người Không Am Hiểu Công Nghệ Người Già Sử Dụng ĐT Tốt Hơn](https://github.com/vuminhngocpt/App-ho-tro-nguoi-khiem-thi)
 
-## Thông Tin : Dự Án Có Thể Bị Huỷ Bỏ Vì Không Có Kihh Phí , Mã Nguồn Trang Này Là Mở Cho Tất Cả Mọi Người Đóng Góp , Xin Cảm Ơn
+## Thông Tin : Dự Án Đa Số  Bị Huỷ Bỏ Vì Không Có Kinh Phí Và Người Đồng Hành 
 
    - Dự án làm gậy thông minh cho người mù đã bị huỷ do thiếu nguồn lực
    - Dự án thiết kế nhà cho người khiếm thị bị huỷ do không đủ nguồn lực 
