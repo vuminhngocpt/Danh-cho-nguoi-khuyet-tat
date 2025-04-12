@@ -1,5 +1,5 @@
 [![331-BC9-AE-6740-442-F-B2-A8-D2-D93-CE2-C242.jpg](https://i.postimg.cc/rwb53pVK/331-BC9-AE-6740-442-F-B2-A8-D2-D93-CE2-C242.jpg)](https://postimg.cc/xXvkbnb2)
-### Dự Án Phát Triển Và Hỗ Trợ Dành Cho Người Khuyết Tật 
+### Danh Mục Đang Được Hỗ Trợ
 
 
 🧑‍🦯🌱 [Dành Cho Người Không Am Hiểu Công Nghệ Người Già Sử Dụng ĐT Tốt Hơn](https://github.com/vuminhngocpt/App-ho-tro-nguoi-khiem-thi)
