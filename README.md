@@ -2,7 +2,7 @@
 ### Danh Mục Đang Được Hỗ Trợ
 
 
-🧑‍🦯🌱 [Dành Cho Người Không Am Hiểu Công Nghệ Người Già Sử Dụng ĐT Tốt Hơn](https://github.com/vuminhngocpt/App-ho-tro-nguoi-khiem-thi)
+🧑‍🦯🌱 [Ứng dụng phím tắt nhanh cho IOS](https://github.com/vuminhngocpt/App-ho-tro-nguoi-khiem-thi)
 
 ## Thông Tin Thêm : Dự Án Đa Số  Bị Huỷ Bỏ Vì Không Có Kinh Phí Và Người Đồng Hành 
 
