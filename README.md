@@ -4,4 +4,6 @@
 
 🧑‍🦯🌱 [Ứng dụng phím tắt nhanh cho IOS](https://github.com/vuminhngocpt/App-ho-tro-nguoi-khiem-thi)
 
-[![D75-AA7-F4-3-ACD-4-AC5-B40-F-F0-AF942-B5-D8-D.jpg](https://i.postimg.cc/s2PHrLnF/D75-AA7-F4-3-ACD-4-AC5-B40-F-F0-AF942-B5-D8-D.jpg)](https://postimg.cc/nszGK3bT)
+
+
+    ©️2025 Vu Minh Ngoc
