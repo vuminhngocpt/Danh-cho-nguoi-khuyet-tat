@@ -1,6 +1,6 @@
 
 ## Mẹo Hay Khi Sử Dụng iPhone
-`trang này tổng hợp mẹo và thủ thuật cũng như ứng dụng cho ios`
+-trang này tổng hợp mẹo và thủ thuật cũng như ứng dụng cho ios
 
 
 #### [Trang Hỗ Trợ Của Apple](https://support.apple.com/vi-vn/docs)
