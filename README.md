@@ -12,6 +12,6 @@
 
 #### [Lấy Lại Dụng Lượng Bộ Nhớ Hệ Thống](https://github.com/vuminhngocpt/laylaidungluongios)
 
-#### [Chụp Ảnh Màn Hình Toàn Trang](test)
+#### [Chụp Ảnh Màn Hình Toàn Trang](https://github.com/vuminhngocpt/chupabhmanhinhos)
 
       ©️2025 Vu Minh Ngoc
