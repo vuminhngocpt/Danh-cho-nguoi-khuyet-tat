@@ -14,4 +14,4 @@
 
 #### [Chụp Ảnh Màn Hình Toàn Trang](https://github.com/vuminhngocpt/chupabhmanhinhos)
 
-      ©️2025 Vu Minh Ngoc
+      ©️2026 Vu Minh Ngoc
